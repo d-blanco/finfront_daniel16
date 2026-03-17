@@ -7,7 +7,7 @@ app.secret_key = 'supersecretkey'  # Replace for production
 
 # Hardcoded credentials
 USERNAME = 'admin'
-PASSWORD = 'password123456'
+PASSWORD = 'password12345'
 
 # Your FastAPI backend base URL
 BACKEND_API_BASE = os.environ.get('BACKEND_API_BASE', 'https://fallback-if-not-set')
